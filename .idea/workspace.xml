@@ -26,7 +26,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1ba0b2a6-50a6-4f95-ab5c-163c4c136f59" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="1ba0b2a6-50a6-4f95-ab5c-163c4c136f59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/lounge.css" afterDir="false" />
+    </list>
+>>>>>>> origin
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,7 +62,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +74,7 @@
       <recent name="D:\Симончук\PROJECTS\HTML\lounge\about" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,15 +97,21 @@
       <workItem from="1659166221942" duration="28000" />
       <workItem from="1659166280792" duration="113000" />
       <workItem from="1660237095724" duration="1793000" />
+<<<<<<< HEAD
       <workItem from="1661276464796" duration="1613000" />
       <workItem from="1662236328588" duration="63000" />
       <workItem from="1662236490024" duration="1087000" />
       <workItem from="1662238280833" duration="58000" />
+=======
+      <workItem from="1661276464796" duration="840000" />
+      <workItem from="1661339796442" duration="4807000" />
+      <workItem from="1661497855188" duration="6656000" />
+>>>>>>> origin
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
