@@ -1,21 +1,26 @@
 body {
-    font-family: sans-serif;
+    font-size: small;
+    font-family: Vernada, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
 }
 h1, h2 {
-    color: gray;
+    color: #007e7e;
 }
 h1 {
-    border-bottom: 1px solid black;
+    font-size: 150%;
 }
-p {
-    color: maroon;
+h2 {
+    font-size: 130%;
 }
-p.greentea {
-    color: green;
-}
-p.raspberry {
-    color: blue;
-}
-p.blueberry {
-    color: purple;
+.guarantee {
+    line-height: 1.9em;
+    font-style: italic;
+    color: #444;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: #a7cece;
+    padding: 25px;
+    margin: 30px;
 }
